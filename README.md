@@ -1,2 +1,7 @@
-# learning-rust
-Learning Rust with the official documentation
+# Learning Rust
+
+Playground for small projects in Rust
+
+## Useful links
+
+[Rust Official Documentation](https://doc.rust-lang.org/book/)
